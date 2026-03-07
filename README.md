@@ -28,8 +28,7 @@ A full-stack web application for online food ordering built using Java Servlets,
 - MVC Architecture - Design Pattern
 
 ## 🔑 Admin Login
-- Email: admin@food.com
-- Password: admin123
+- Default admin Credentials are configured in the database setup script
 
 ## 📌 How It Works
 1. User registers and logs in
