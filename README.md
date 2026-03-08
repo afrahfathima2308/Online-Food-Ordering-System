@@ -2,7 +2,7 @@
 
 A full-stack web application for online food ordering built using Java Servlets, JSP, MySQL, and Bootstrap 5.
 ## 🎬 Demo Video
-👉 [Click here to watch the demo](https://drive.google.com/file/d/1jbvl8h1O_h4TdbZBwRF-j88rfc7_Mk_a/view?usp=drivesdk)
+👉 [Click here to watch the demo]()
 
 ## 🚀 Features
 
